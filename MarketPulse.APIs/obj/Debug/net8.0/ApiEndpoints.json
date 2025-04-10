@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MarketPulse.Core.Entities.Product, MarketPulse.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MarketPulse.APIs.Dtos.ProductDto, MarketPulse.APIs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MarketPulse.Core.Entities.Product",
+        "Type": "MarketPulse.APIs.Dtos.ProductDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

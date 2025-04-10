@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketPulse.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a8065e7092262f6c94d3475ce2c32cc9d6d386")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketPulse.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketPulse.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

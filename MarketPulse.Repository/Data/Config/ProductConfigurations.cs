@@ -22,7 +22,7 @@ namespace MarketPulse.Repository.Data.Config
 
             builder.Property(p => p.PictureUrl).IsRequired();
 
-            builder.Property(p => p.price)
+            builder.Property(p => p.Price)
                 .IsRequired()
                 .HasColumnType("decimal(18,2)");
 

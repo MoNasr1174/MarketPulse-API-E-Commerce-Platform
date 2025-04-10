@@ -9,3 +9,15 @@ C:\MarketPulse.Nasr.Solution\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.
 C:\MarketPulse.Nasr.Solution\MarketPulse.Core\obj\Debug\net8.0\refint\MarketPulse.Core.dll
 C:\MarketPulse.Nasr.Solution\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.pdb
 C:\MarketPulse.Nasr.Solution\MarketPulse.Core\obj\Debug\net8.0\ref\MarketPulse.Core.dll
+C:\MarketPulse\MarketPulse.Core\bin\Debug\net8.0\MarketPulse.Core.deps.json
+C:\MarketPulse\MarketPulse.Core\bin\Debug\net8.0\MarketPulse.Core.dll
+C:\MarketPulse\MarketPulse.Core\bin\Debug\net8.0\MarketPulse.Core.pdb
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.AssemblyInfoInputs.cache
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.AssemblyInfo.cs
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.csproj.CoreCompileInputs.cache
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.sourcelink.json
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.dll
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\refint\MarketPulse.Core.dll
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\MarketPulse.Core.pdb
+C:\MarketPulse\MarketPulse.Core\obj\Debug\net8.0\ref\MarketPulse.Core.dll

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MarketPulse\\MarketPulse.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarketPulse.APIs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarketPulse.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MarketPulse.APIs.props",
+      "PackagePath": "build\\MarketPulse.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MarketPulse.APIs.props",
+      "PackagePath": "buildMultiTargeting\\MarketPulse.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MarketPulse.APIs.props",
+      "PackagePath": "buildTransitive\\MarketPulse.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

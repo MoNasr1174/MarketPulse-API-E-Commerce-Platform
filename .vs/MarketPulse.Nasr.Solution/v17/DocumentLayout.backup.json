@@ -1,7 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MarketPulse.Nasr.Solution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\MarketPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\helpers\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|c:\\marketpulse\\marketpulse.apis\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F202993-12F7-42F4-BA2B-94EC9B0186DB}|MarketPulse.APIs\\MarketPulse.APIs.csproj|solutionrelative:marketpulse.apis\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\specifications\\productspecifications\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\specifications\\productspecifications\\productwithbrandandcategoryspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C770EBA-0B8E-435B-8746-EE522201E8F2}|MarketPulse.Repository\\MarketPulse.Repository.csproj|c:\\marketpulse\\marketpulse.repository\\specificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C770EBA-0B8E-435B-8746-EE522201E8F2}|MarketPulse.Repository\\MarketPulse.Repository.csproj|solutionrelative:marketpulse.repository\\specificationsevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C770EBA-0B8E-435B-8746-EE522201E8F2}|MarketPulse.Repository\\MarketPulse.Repository.csproj|c:\\marketpulse\\marketpulse.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C770EBA-0B8E-435B-8746-EE522201E8F2}|MarketPulse.Repository\\MarketPulse.Repository.csproj|solutionrelative:marketpulse.repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\igenericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\igenericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|c:\\marketpulse\\marketpulse.core\\marketpulse.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D88242B7-4E01-4241-ADC7-33C59271894C}|MarketPulse.Core\\MarketPulse.Core.csproj|solutionrelative:marketpulse.core\\marketpulse.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +103,201 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\appsettings.json",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\appsettings.json",
+              "RelativeToolTip": "MarketPulse.APIs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T19:16:43.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Program.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Program.cs*",
+              "RelativeToolTip": "MarketPulse.APIs\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:47:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Helpers\\MappingProfiles.cs*",
+              "RelativeToolTip": "MarketPulse.APIs\\Helpers\\MappingProfiles.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:41:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "MarketPulse.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:39:41.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "MarketPulse.APIs\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:39:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MarketPulse.APIs\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:53:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Helpers\\ProductPictureUrlResolver.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Helpers\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "MarketPulse.APIs\\Helpers\\ProductPictureUrlResolver.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:18:45.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.APIs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MarketPulse.APIs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.APIs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MarketPulse.APIs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T19:17:41.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductWithBrandandCategorySpecifications.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\ProductSpecifications\\ProductWithBrandandCategorySpecifications.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\Specifications\\ProductSpecifications\\ProductWithBrandandCategorySpecifications.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\ProductSpecifications\\ProductWithBrandandCategorySpecifications.cs",
+              "RelativeToolTip": "MarketPulse.Core\\Specifications\\ProductSpecifications\\ProductWithBrandandCategorySpecifications.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:46:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\IGenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\IGenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\IGenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "MarketPulse.Core\\IGenericRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:08:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Repository\\GenericRepository.cs",
+              "RelativeToolTip": "MarketPulse.Repository\\GenericRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAzwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:07:15.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpecificationsEvaluator.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Repository\\SpecificationsEvaluator.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Repository\\SpecificationsEvaluator.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Repository\\SpecificationsEvaluator.cs",
+              "RelativeToolTip": "MarketPulse.Repository\\SpecificationsEvaluator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:25:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "MarketPulse.Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:20:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\Specifications\\ISpecifications.cs",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\Specifications\\ISpecifications.cs",
+              "RelativeToolTip": "MarketPulse.Core\\Specifications\\ISpecifications.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:15:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MarketPulse.Core",
+              "DocumentMoniker": "C:\\MarketPulse\\MarketPulse.Core\\MarketPulse.Core.csproj",
+              "RelativeDocumentMoniker": "MarketPulse.Core\\MarketPulse.Core.csproj",
+              "ToolTip": "C:\\MarketPulse\\MarketPulse.Core\\MarketPulse.Core.csproj",
+              "RelativeToolTip": "MarketPulse.Core\\MarketPulse.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T16:14:40.193Z",
+              "EditorCaption": ""
             }
           ]
         }

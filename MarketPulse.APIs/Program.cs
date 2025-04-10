@@ -1,4 +1,5 @@
 
+using MarketPulse.APIs.Helpers;
 using MarketPulse.Core.IGenericRepository;
 using MarketPulse.Repository;
 using MarketPulse.Repository.Data;
@@ -27,6 +28,8 @@ namespace MarketPulse.APIs
             );
 
             WebApplicationbuilder.Services.AddScoped(typeof(IGenericRepository<>) , typeof(GenericRepository<>));
+            WebApplicationbuilder.Services.AddAutoMapper(typeof(MappingProfiles));
+
 
             #endregion
 
@@ -62,8 +65,9 @@ namespace MarketPulse.APIs
             }
 
             app.UseHttpsRedirection();
+            app.UseStaticFiles(); 
 
-            app.UseAuthorization();
+          //  app.UseAuthorization();
 
 
             app.MapControllers();
