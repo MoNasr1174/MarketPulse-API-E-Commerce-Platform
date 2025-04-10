@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zEQ2iPQizIgpcpDXWA0xGQItuBn3PzFshQL+F9mDUzg=",
+  "Source": "MarketPulse.APIs",
+  "BasePath": "_content/MarketPulse.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

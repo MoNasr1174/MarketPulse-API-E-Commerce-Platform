@@ -1,0 +1,11 @@
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\bin\Debug\net8.0\MarketPulse.Service.deps.json
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\bin\Debug\net8.0\MarketPulse.Service.dll
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\bin\Debug\net8.0\MarketPulse.Service.pdb
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.AssemblyInfoInputs.cache
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.AssemblyInfo.cs
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.csproj.CoreCompileInputs.cache
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.dll
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\refint\MarketPulse.Service.dll
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\MarketPulse.Service.pdb
+C:\MarketPulse.Nasr.Solution\MarketPulse.Service\obj\Debug\net8.0\ref\MarketPulse.Service.dll
